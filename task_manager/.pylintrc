@@ -1,0 +1,15 @@
+[MESSAGES CONTROL]
+disable = missing-function-docstring,
+        missing-module-docstring,
+        missing-class-docstring,
+        import-outside-toplevel,
+        attribute-defined-outside-init,
+        line-too-long,
+        invalid-str-returned,
+        no-member,
+        unused-variable,
+        locally-disabled, 
+        multiple-statements,
+        fixme,
+        W0511, 
+        C0321
