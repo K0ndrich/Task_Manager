@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=D:\Projects\Task_Manager\venv
+set VIRTUAL_ENV=D:\Projects\To_Do_List\venv
 
 if not defined PROMPT set PROMPT=$P$G
 
