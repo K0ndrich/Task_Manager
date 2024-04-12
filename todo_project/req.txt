@@ -1,4 +1,17 @@
 asgiref==3.8.1
 Django==5.0.4
+install==1.3.5
+odict==1.9.0
+optional-django==0.1.0
+plumber==1.7
+setuptools==69.2.0
 sqlparse==0.4.4
 tzdata==2024.1
+zope.component==6.0
+zope.deferredimport==5.0
+zope.deprecation==5.0
+zope.event==5.0
+zope.hookable==6.0
+zope.interface==6.2
+zope.lifecycleevent==5.0
+zope.proxy==5.2
